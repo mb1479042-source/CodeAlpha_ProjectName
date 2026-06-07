@@ -1,4 +1,4 @@
-# 🚀 Advanced Data Science & Machine Learning Portfolio (Google Colab Edition)
+# 🚀Data Science & Machine Learning Internship
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
